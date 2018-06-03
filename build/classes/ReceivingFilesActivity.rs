@@ -1,0 +1,5 @@
+KeepReceivingAwake
+KeepAwake
+GettingInformation
+ReceivingFilesActivity
+ReceivingFiles
